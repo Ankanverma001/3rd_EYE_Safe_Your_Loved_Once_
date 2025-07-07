@@ -1,5 +1,4 @@
-# 👁️ Here’s your complete and professional `README.md` file for the **3rd Eye Smartwatch** project, ready to upload to GitHub:
-
+# 👁️ 3rd EYE Smartwatch
 ---
 
 ### ✅ `README.md`
