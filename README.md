@@ -29,7 +29,7 @@ The **3rd Eye Project** is an intelligent system designed to provide visual assi
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/3rd-eye-project.git
+git clone https://github.com/ankanverma001/3rd-EYE_Safe_Your_Loved_Once_.git
 cd 3rd-eye-project
 pip install -r requirements.txt
 # 👁️ 3rd Eye Project
